@@ -1,1 +1,4 @@
-Remake of the Hasee Bounce 
+Remake of the Hasee Bounce (nepets game)
+
+
+Worked with a partner:
